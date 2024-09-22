@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|f:\\mehmet\\gh\\linuxldap - ghwcore\\ldaplogin.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|solutionrelative:ldaplogin.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|f:\\mehmet\\gh\\linuxldap - ghwcore\\ldaplogin.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|solutionrelative:ldaplogin.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|f:\\mehmet\\gh\\linuxldap - ghwcore\\ldaplogin.webui\\etools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|solutionrelative:ldaplogin.webui\\etools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|f:\\mehmet\\gh\\linuxldap - ghwcore\\ldaplogin.webui\\controllers\\ldapconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2662A00F-BEE9-407F-AFDC-F7C6C2644692}|LdapLogin.WebUI\\LdapLogin.WebUI.csproj|solutionrelative:ldaplogin.webui\\controllers\\ldapconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Startup.cs",
+              "RelativeDocumentMoniker": "LdapLogin.WebUI\\Startup.cs",
+              "ToolTip": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Startup.cs",
+              "RelativeToolTip": "LdapLogin.WebUI\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:20:17.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "LdapLogin.WebUI\\Program.cs",
+              "ToolTip": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Program.cs",
+              "RelativeToolTip": "LdapLogin.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:20:15.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eTools.cs",
+              "DocumentMoniker": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\eTools.cs",
+              "RelativeDocumentMoniker": "LdapLogin.WebUI\\eTools.cs",
+              "ToolTip": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\eTools.cs",
+              "RelativeToolTip": "LdapLogin.WebUI\\eTools.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:20:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LdapConController.cs",
+              "DocumentMoniker": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Controllers\\LdapConController.cs",
+              "RelativeDocumentMoniker": "LdapLogin.WebUI\\Controllers\\LdapConController.cs",
+              "ToolTip": "F:\\mehmet\\gh\\LinuxLdap - GHwCore\\LdapLogin.WebUI\\Controllers\\LdapConController.cs",
+              "RelativeToolTip": "LdapLogin.WebUI\\Controllers\\LdapConController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:19:57.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
